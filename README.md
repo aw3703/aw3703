@@ -39,7 +39,17 @@
 - 🤖 **2026 Golden Models 0-Day**: Direct routing to DeepSeek-V4 Pro/Flash, Qwen 3.8 Max (1M context), GLM-5.3, Kimi K3, and MiniMax M3.
 - 🔌 **Full Ecosystem**: Drop-in OpenAI SDK replacement (`base_url="https://api.batchin.tech/v1"`), official `@batchin/ai-sdk` (Vercel AI SDK 4.x), certified FastMCP server (8 tools for Cursor / Windsurf / Claude Desktop), and CLI (`npx @batchin/cli`).
 
-👉 **[Explore BatchIn Repository & Star ⭐️](https://github.com/aw3703/batchin-public)**
+👉 **[Explore BatchIn Repository & Star ⭐️](https://github.com/aw3703/batchin-public)** • [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aw3703/batchin-public/blob/main/examples/notebooks/batchin_master_quickstart.ipynb)
+
+---
+
+### 📜 Published Architecture Standards & RFCs
+
+| RFC | Title | Standard Layer | Reference |
+| :---: | :--- | :---: | :---: |
+| **RFC-0001** | **Verifiable AI as a Service (VaaS) Protocol Spec v1.0** | Cryptography & Base L2 | [View Spec](https://github.com/aw3703/batchin-public/blob/main/docs/rfcs/RFC-0001-VAAS-CRYPTOGRAPHIC-RECEIPTS.md) |
+| **RFC-0002** | **Hedged Dual-Dispatch & Tail Latency Mitigation Protocol** | Distributed Systems | [View Spec](https://github.com/aw3703/batchin-public/blob/main/docs/rfcs/RFC-0002-HEDGED-DUAL-DISPATCH.md) |
+| **RFC-0003** | **Zero-Token Streaming JSON AST Auto-Healer** | Compiler & Agent Resilience | [View Spec](https://github.com/aw3703/batchin-public/blob/main/docs/rfcs/RFC-0003-ZERO-TOKEN-STREAMING-AST-HEALER.md) |
 
 ---
 
